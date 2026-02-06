@@ -88,9 +88,9 @@ The dataset contains ride booking details such as:
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard Preview:
 
-![Dashboard Screenshot]([Screenshots/dashboard1.png](https://github.com/saksham-deep/Ola_Analytics/blob/main/Snapshot_Ola_Analytics_Dashboard.png))
+![Dashboard Screenshot](https://github.com/saksham-deep/Ola_Analytics/blob/main/Snapshot_Ola_Analytics_Dashboard.png)
 
 ---
 
