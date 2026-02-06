@@ -49,7 +49,6 @@ The dataset contains ride booking details such as:
 - SQL (MySQL)
 - Power BI
 - Excel / CSV Dataset
-- Git & GitHub
 
 ---
 
@@ -90,9 +89,8 @@ The dataset contains ride booking details such as:
 ---
 
 ## 📸 Dashboard Screenshots
-(Add images inside a Screenshots folder and link here)
 
-![Dashboard Screenshot](Screenshots/dashboard1.png)
+![Dashboard Screenshot]([Screenshots/dashboard1.png](https://github.com/saksham-deep/Ola_Analytics/blob/main/Snapshot_Ola_Analytics_Dashboard.png))
 
 ---
 
